@@ -1,0 +1,12 @@
+# Idea
+
+.idea/
+
+# Maven
+
+src/test/
+target/
+
+# Mac OS
+
+.DS_Store
